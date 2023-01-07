@@ -4,6 +4,10 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no, user-scalable=0">
     <meta name="description" content="Portfolio Stéphane GANSETO">
+    <meta name="copyright" content="Stéphane GANSETO">
+    <meta name="keywords" content="stephane,ganseto,stephane ganseto,ganseto stephane,site,site web,site ecommerce,developpeur web,media buyer,google ads,gestion campagne ads">
+    <meta name="Robots" content="index,follow">
+    <meta name="DC.title" content="Stéphane GANSETO">
     <meta name="author" content="Stéphane GANSETO">
 
     <title>Stéphane GANSETO</title>
