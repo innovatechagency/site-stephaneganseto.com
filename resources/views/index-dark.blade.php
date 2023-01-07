@@ -14,6 +14,7 @@
     <link href="css/owl.carousel.min.css" rel="stylesheet">
     <link href="css/owl.theme.default.min.css" rel="stylesheet">
     <link href="css/animate.min.css" rel="stylesheet">
+    <link rel="shortcut icon" href="{{ asset('favicon.png') }}">
 
     <!-- Main CSS -->
     <link href="css/style.css" rel="stylesheet">
